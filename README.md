@@ -21,8 +21,9 @@
         <div class="header-content">
             <h1>Welcome to Our Perfume Collection</h1>
             <p>Discover the essence of luxury with our exclusive range of perfumes.</p>
-            <a href="#products" class="btn">Explore Collection</a>
             <img src="home.jpg">
+            <a href="#products" class="btn">Explore Collection</a>
+            
         </div>
     </header>
 
